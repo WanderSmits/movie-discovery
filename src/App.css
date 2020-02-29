@@ -14,7 +14,15 @@
 }
 
 NavLink {
-  font-weight: bold;
+  text-align: center;
+}
+
+.movieList {
+  display: inline-block;
+}
+
+img {
+  cursor: pointer;
 }
 
 .App-header {
